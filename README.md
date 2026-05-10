@@ -7,7 +7,7 @@ A Python command-line tool that calculates student grade statistics.
 - Calculates average grade
 - Identifies highest and lowest scoring subjects
 - Shows pass/fail status per subject (pass mark: 10/20)
-- Input validation — rejects grades outside 0–20 range
+- Input validation, rejects grades outside 0–20 range
 
 ## How to run
 ```python functions.py```
@@ -17,5 +17,5 @@ A Python command-line tool that calculates student grade statistics.
 - PyCharm (JetBrains)
 
 ## Author
-Abdennour — Génie Informatique, EMSI
+Abdennour/ Génie Informatique, EMSI
 ```
