@@ -10,7 +10,7 @@ A Python command-line tool that calculates student grade statistics.
 - Input validation, rejects grades outside 0–20 range
 
 ## How to run
-```python functions.py```
+```Grade_calculator.py```
 
 ## Built with
 - Python 3.14
