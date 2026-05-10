@@ -17,5 +17,5 @@ A Python command-line tool that calculates student grade statistics.
 - PyCharm (JetBrains)
 
 ## Author
-Abdennour/ Génie Informatique, EMSI
+Abdennour KELLAM / Génie Informatique, EMSI
 ```
